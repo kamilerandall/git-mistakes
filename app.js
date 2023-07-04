@@ -3,3 +3,7 @@
 function alertHello() {
     alert('hi!');
 }
+
+function secondFunct() {
+    alert('This is number two');
+}
