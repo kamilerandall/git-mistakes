@@ -7,4 +7,5 @@ function alertHello() {
 function secondFunct() {
     alert('This is number two');
     alert('Change one');
+    alert('Change two');
 }
