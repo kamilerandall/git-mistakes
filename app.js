@@ -2,4 +2,11 @@
 
 function alertHello() {
     alert('hi!');
+<<<<<<< HEAD
+}
+
+function secondFunct() {
+    alert('This is number two');
+=======
+>>>>>>> main
 }
